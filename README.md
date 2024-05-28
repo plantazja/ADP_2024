@@ -19,7 +19,7 @@ Update the table (today you need to fill at least the first two columns)
 | Jagoda Trzeciak        | [jagodatrzeciak](https://github.com/jagodatrzeciak)     | [3DP](https://github.com/jagodatrzeciak/ADP-project) | Michał Rembalski, Marta Korpacz, Bruno Puczko-Szymański        |
 |  Marta Korpacz     | ???? | [3DP](https://github.com/jagodatrzeciak/ADP-project) | Michał Rembalski, Jagoda Trzeciak, Bruno Puczko-Szymański        |
 | Jakub Binda            | [jbindaAI](https://github.com/jbindaAI)                 |[RSSP](https://github.com/jbindaAI/RSSP.git) | Anastasiy Ramanchanka, Konstanty Kraszewski, Michalina Wysocka |
-| Konstanty Kraszewski   | [KraszewskiK](https://github.com/KraszewskiK)           |TO DO | Anastasiy Ramanchanka, Jakub Binda, Michalina Wysocka |
+| Konstanty Kraszewski   | [KraszewskiK](https://github.com/KraszewskiK)           |[RSSP](https://github.com/jbindaAI/RSSP.git) | Anastasiy Ramanchanka, Jakub Binda, Michalina Wysocka |
 | Anastasiy Ramanchanka  | ???           |TO DO | Konstanty Kraszewski, Jakub Binda, Michalina Wysocka |
 | Michalina Wysocka  | ???           |TO DO | Konstanty Kraszewski, Jakub Binda, Anastasiy Ramanchanka |
 | Mateusz Chojnacki      | [M-Chojnacki6](https://github.com/M-Chojnacki6)         | [ECT](https://github.com/M-Chojnacki6/ADP_project) | Krzysztof Łukasz, Younginn Park, Daniel Zalewski |
