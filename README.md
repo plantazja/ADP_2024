@@ -22,10 +22,10 @@ Update the table (today you need to fill at least the first two columns)
 | Konstanty Kraszewski   | [KraszewskiK](https://github.com/KraszewskiK)           |[RSSP](https://github.com/jbindaAI/RSSP.git) | Anastasiy Ramanchanka, Jakub Binda, Michalina Wysocka |
 | Anastasiy Ramanchanka  | ???           |TO DO | Konstanty Kraszewski, Jakub Binda, Michalina Wysocka |
 | Michalina Wysocka  | ???           |TO DO | Konstanty Kraszewski, Jakub Binda, Anastasiy Ramanchanka |
-| Mateusz Chojnacki      | [M-Chojnacki6](https://github.com/M-Chojnacki6)         | [ECT](https://github.com/M-Chojnacki6/ADP_project) | Krzysztof Łukasz, Younginn Park, Daniel Zalewski |
-| Younginn Park          | [young-sudo](https://github.com/young-sudo)             | [ECT](https://github.com/M-Chojnacki6/ADP_project) | Mateusz Chojnacki, Krzysztof Łukasz, Younginn Park, Daniel Zalewski |
-| Łukasz Krzysztof       | [k_lukasz](https://github.com/szysztof17)               | [ECT](https://github.com/M-Chojnacki6/ADP_project) | Mateusz Chojnacki, Younginn Park, Daniel Zalewski |
-| Daniel Zalewski        | [SleepDealler](https://github.com/SleepDealler)         | [ECT](https://github.com/M-Chojnacki6/ADP_project) | Mateusz Chojnacki, Younginn Park, Krzysztof Łukasz |
+| Mateusz Chojnacki      | [M-Chojnacki6](https://github.com/M-Chojnacki6)         | [ECT](https://github.com/M-Chojnacki6/ECT) | Krzysztof Łukasz, Younginn Park, Daniel Zalewski |
+| Younginn Park          | [young-sudo](https://github.com/young-sudo)             | [ECT](https://github.com/M-Chojnacki6/ECT) | Mateusz Chojnacki, Krzysztof Łukasz, Younginn Park, Daniel Zalewski |
+| Łukasz Krzysztof       | [k_lukasz](https://github.com/szysztof17)               | [ECT](https://github.com/M-Chojnacki6/ECT) | Mateusz Chojnacki, Younginn Park, Daniel Zalewski |
+| Daniel Zalewski        | [SleepDealler](https://github.com/SleepDealler)         | [ECT](https://github.com/M-Chojnacki6/ECT) | Mateusz Chojnacki, Younginn Park, Krzysztof Łukasz |
 | Dawid Uchal            | [dav3794](https://github.com/dav3794)                   | [PSI](https://github.com/dav3794/PsiMol)  | Maciej Bielecki |
 | Maciej Bielecki        | [macbiel](https://github.com/macbiel)                   | [PSI](https://github.com/dav3794/PsiMol)  | Dawid Uchal |
 | Lidia Stadnik          | [lidst](https://github.com/lidst)                       | [PC](https://github.com/Silbena/ProtCon)  | Barbara Popławska, Maria Nizik, Zuzanna Smektała |
