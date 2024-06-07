@@ -29,10 +29,10 @@ Update the table (today you need to fill at least the first two columns)
 | Dawid Uchal            | [dav3794](https://github.com/dav3794)                   | [PSI](https://github.com/dav3794/PsiMol) | Maciej Bielecki, Paweł Nagórko                                      |
 | Maciej Bielecki        | [macbiel](https://github.com/macbiel)                   | [PSI](https://github.com/dav3794/PsiMol) | Dawid Uchal, Paweł Nagórko                                          |
 | Paweł Nagórko          | [ArnoldLowefel](https://github.com/ArnoldLowefel)|[PSI](https://github.com/dav3794/PsiMol)| Dawid Uchal, Maciej Bielecki                                        |
-| Lidia Stadnik          | [lidst](https://github.com/lidst)                       | [PC](https://github.com/Silbena/ProtCon) | Barbara Popławska, Maria Nizik, Zuzanna Smektała                    |
-| Barbara Popławska      | [basia-pop](https://github.com/basia-pop)               | [PC](https://github.com/Silbena/ProtCon) | Maria Nizik, Zuzanna Smektała, Lidia Stadnik                        |
-| Zuzanna Smektała       | [zsmektala](https://github.com/zsmektala)               | [PC](https://github.com/Silbena/ProtCon) | Maria Nizik, Barbara Popławska, Lidia Stadnik                       |
-| Maria Nizik            | [maria_nizik](https://github.com/Silbena)               | [PC](https://github.com/Silbena/ProtCon) | Barbara Popławska, Zuzanna Smektała, Lidia Stadnik                  |
+| Lidia Stadnik          | [lidst](https://github.com/lidst)                       | [SC](https://github.com/Silbena/ProtCon) | Barbara Popławska, Maria Nizik, Zuzanna Smektała                    |
+| Barbara Popławska      | [basia-pop](https://github.com/basia-pop)               | [SC](https://github.com/Silbena/ProtCon) | Maria Nizik, Zuzanna Smektała, Lidia Stadnik                        |
+| Zuzanna Smektała       | [zsmektala](https://github.com/zsmektala)               | [SC](https://github.com/Silbena/ProtCon) | Maria Nizik, Barbara Popławska, Lidia Stadnik                       |
+| Maria Nizik            | [maria_nizik](https://github.com/Silbena)               | [SC](https://github.com/Silbena/ProtCon) | Barbara Popławska, Zuzanna Smektała, Lidia Stadnik                  |
 
 ### Task 2
 Create the directory for your project with README.md file in <b>'projects'</b> directory where you will describe the subject, 
